@@ -485,6 +485,9 @@ input[type="email"] {
     .input-des {
         margin-top: 20px;
     }
+    .less-font{
+        font-size: 0.5rem;
+    }
 
 
 
