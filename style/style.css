@@ -263,7 +263,7 @@
 
 .top-margin {
     margin-top: 10px;
-    margin-left: 150px;
+    margin-left: 130px;
 }
 
 .flower {
@@ -434,6 +434,10 @@ input[type="email"] {
 
     .media2 {
         margin-left: 70px;
+    }
+
+    .media3 {
+        margin-left: 30px;
     }
 
 
